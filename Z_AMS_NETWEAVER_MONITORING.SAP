@@ -1,19 +1,31 @@
-DATE                                              20231211                                          145739
+DATE                                              20240123                                          170309
 RELEASE                                           750
 LOADED_AGRS                                       Z_AMS_NETWEAVER_MONITORING
-AGR_DEFINE                                        500Z_AMS_NETWEAVER_MONITORING                                  HSRIDHARAN  20230201142645000000000000000HSRIDHARAN  20230316080020000000000000000
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000001/SDF/E2E  T-GT05009400    U  O000010
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000002S_ADMI_FCDT-GT05009400    U  O000013
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000003S_BTCH_ADMT-GT05009400    U  O000016
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000004S_RFC     T-GT05009400    U  O000004
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000005S_SDSAUTH T-GT05009400    U  O000035
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000006S_TABU_NAMT-GT05009400    U  O000019
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000007S_TOOLS_EXT-GT05009400    U  O000023
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000008S_XMI_LOG T-GT05009400    U  O000026
-AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000009S_XMI_PRODT-GT05009400    U  O000029
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000001/SDF/E2E  T-GT05009400    ACTVT     03                                                                              U  O000011
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000002S_ADMI_FCDT-GT05009400    S_ADMI_FCDST0R                                                                            U  O000014
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000003S_BTCH_ADMT-GT05009400    BTCADMIN  Y                                                                               U  O000017
+AGR_DEFINE                                        500Z_AMS_NETWEAVER_MONITORING                                  HSRIDHARAN  20230201142645000000000000000GRIFFI2D    20240123162657000000000000000
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000001/SDF/E2E  T-GT05009400    U  O000013
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000002S_ADMI_FCDT-GT05009400    U  O000016
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000003S_BTCH_ADMT-GT05009400    U  O000019
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000004S_DEVELOP T-GT05009400    U  O000038
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000005S_DEVELOP T-GT05009401    U  O000044
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000006S_DEVELOP T-GT05009402    U  O000058
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000007S_DEVELOP T-GT05009403    U  O000064
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000008S_DEVELOP T-GT05009404    U  O000070
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000009S_DEVELOP T-GT05009405    U  O000076
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000010S_DEVELOP T-GT05009406    U  O000082
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000011S_DEVELOP T-GT05009407    U  O000088
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000012S_DEVELOP T-GT05009408    U  O000094
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000013S_DEVELOP T-GT05009409    U  O000100
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000014S_RFC     T-GT05009400    U  O000004
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000015S_SDSAUTH T-GT05009400    U  O000052
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000016S_SDSS    T-GT05009400    U  O000055
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000017S_TABU_NAMT-GT05009400    U  O000022
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000018S_TCODE   T-GT05009400    U  O000009
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000019S_TOOLS_EXT-GT05009400    U  O000026
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000020S_XMI_LOG T-GT05009400    U  O000029
+AGR_1250                                          500Z_AMS_NETWEAVER_MONITORING    000021S_XMI_PRODT-GT05009400    U  O000032
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000001/SDF/E2E  T-GT05009400    ACTVT     03                                                                              U  O000014
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000002S_ADMI_FCDT-GT05009400    S_ADMI_FCDST0R                                                                            U  O000017
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000003S_BTCH_ADMT-GT05009400    BTCADMIN  Y                                                                               U  O000020
 AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000004S_RFC     T-GT05009400    ACTVT     16                                                                              U  O000005
 AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000005S_RFC     T-GT05009400    RFC_NAME  /OSP/SYSTEM_TIMEZONE                                                            U  O000006
 AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000006S_RFC     T-GT05009400    RFC_NAME  /SAPDS/RFC_READ_TABLE2                                                          U  O000006
@@ -38,19 +50,76 @@ AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING 
 AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000025S_RFC     T-GT05009400    RFC_NAME  TRFC_QOUT_GET_CURRENT_QUEUES                                                    U  O000006
 AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000026S_RFC     T-GT05009400    RFC_TYPE  FUGR                                                                            U  O000007
 AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000027S_RFC     T-GT05009400    RFC_TYPE  FUNC                                                                            U  O000007
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000028S_SDSAUTH T-GT05009400    ACTVT     16                                                                              U  O000036
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000029S_TABU_NAMT-GT05009400    ACTVT     03                                                                              U  O000020
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000030S_TABU_NAMT-GT05009400    TABLE     /SDF/SMON_HEADER                                                                U  O000021
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000031S_TABU_NAMT-GT05009400    TABLE     ARFCSSTATE                                                                      U  O000021
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000032S_TABU_NAMT-GT05009400    TABLE     E070                                                                            U  O000021
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000033S_TABU_NAMT-GT05009400    TABLE     E071                                                                            U  O000021
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000034S_TABU_NAMT-GT05009400    TABLE     VBHDR                                                                           U  O000021
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000035S_TOOLS_EXT-GT05009400    AUTH      S_TOOLS_EX                                                                      U  O000024
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000036S_TOOLS_EXT-GT05009400    AUTH      S_TOOLS_EX_A                                                                    U  O000024
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000037S_XMI_LOG T-GT05009400    XMILOGACC *                                                                               U  O000027
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000038S_XMI_PRODT-GT05009400    EXTCOMPANY*                                                                               U  O000030
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000039S_XMI_PRODT-GT05009400    EXTPRODUCT*                                                                               U  O000031
-AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000040S_XMI_PRODT-GT05009400    INTERFACE XBP                                                                             U  O000032
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000028S_SDSAUTH T-GT05009400    ACTVT     16                                                                              U  O000053
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000029S_TABU_NAMT-GT05009400    ACTVT     03                                                                              U  O000023
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000030S_TABU_NAMT-GT05009400    TABLE     /SDF/SMON_HEADER                                                                U  O000024
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000031S_TABU_NAMT-GT05009400    TABLE     ARFCSSTATE                                                                      U  O000024
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000032S_TABU_NAMT-GT05009400    TABLE     E070                                                                            U  O000024
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000033S_TABU_NAMT-GT05009400    TABLE     E071                                                                            U  O000024
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000034S_TABU_NAMT-GT05009400    TABLE     VBHDR                                                                           U  O000024
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000035S_TOOLS_EXT-GT05009400    AUTH      S_TOOLS_EX                                                                      U  O000027
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000036S_TOOLS_EXT-GT05009400    AUTH      S_TOOLS_EX_A                                                                    U  O000027
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000037S_XMI_LOG T-GT05009400    XMILOGACC *                                                                               U  O000030
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000038S_XMI_PRODT-GT05009400    EXTCOMPANY*                                                                               U  O000033
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000039S_XMI_PRODT-GT05009400    EXTPRODUCT*                                                                               U  O000034
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000040S_XMI_PRODT-GT05009400    INTERFACE XBP                                                                             U  O000035
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000041S_SDSS    T-GT05009400    /SAPDS/STYD                                                                               U  O000056
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000042S_SDSS    T-GT05009400    ACTVT     *                                                                               U  O000057
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000043S_DEVELOP T-GT05009400    ACTVT     03                                                                              U  O000039
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000044S_DEVELOP T-GT05009400    DEVCLASS  /SDF/STPI_6X                                                                    U  O000040
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000045S_DEVELOP T-GT05009400    OBJNAME   /SDF/SMD_E2E                                                                    U  O000041
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000046S_DEVELOP T-GT05009400    OBJTYPE   FUGR                                                                            U  O000042
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000047S_DEVELOP T-GT05009400    P_GROUP   *                                                                               U  O000043
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000048S_DEVELOP T-GT05009401    ACTVT     03                                                                              U  O000045
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000049S_DEVELOP T-GT05009401    DEVCLASS  SXMI                                                                            U  O000046
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000050S_DEVELOP T-GT05009401    OBJNAME   SXBP                                                                            U  O000047
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000051S_DEVELOP T-GT05009401    OBJNAME   SXMI                                                                            U  O000047
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000052S_DEVELOP T-GT05009401    OBJTYPE   FUGR                                                                            U  O000048
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000053S_DEVELOP T-GT05009401    P_GROUP   *                                                                               U  O000049
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000054S_DEVELOP T-GT05009402    ACTVT     03                                                                              U  O000059
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000055S_TCODE   T-GT05009400    TCD       SE38                                                                            U  O000010
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000056S_DEVELOP T-GT05009402    DEVCLASS  SWNC_INTERFACES_TOOLS                                                           U  O000060
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000057S_DEVELOP T-GT05009402    OBJNAME   SCSM_GLOB_SYSTEM                                                                U  O000061
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000058S_DEVELOP T-GT05009402    OBJTYPE   FUGR                                                                            U  O000062
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000059S_DEVELOP T-GT05009402    P_GROUP   *                                                                               U  O000063
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000060S_DEVELOP T-GT05009403    P_GROUP   *                                                                               U  O000069
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000061S_DEVELOP T-GT05009403    OBJTYPE   FUGR                                                                            U  O000068
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000062S_DEVELOP T-GT05009403    OBJNAME   SDTX                                                                            U  O000067
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000063S_DEVELOP T-GT05009403    DEVCLASS  SDTI                                                                            U  O000066
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000064S_DEVELOP T-GT05009403    ACTVT     03                                                                              U  O000065
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000065S_DEVELOP T-GT05009404    P_GROUP   *                                                                               U  O000075
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000066S_DEVELOP T-GT05009404    OBJTYPE   FUGR                                                                            U  O000074
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000067S_DEVELOP T-GT05009404    OBJNAME   SENT                                                                            U  O000073
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000068S_DEVELOP T-GT05009404    DEVCLASS  SENQ                                                                            U  O000072
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000069S_DEVELOP T-GT05009404    ACTVT     03                                                                              U  O000071
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000070S_DEVELOP T-GT05009405    P_GROUP   *                                                                               U  O000081
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000071S_DEVELOP T-GT05009405    OBJTYPE   FUGR                                                                            U  O000080
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000072S_DEVELOP T-GT05009405    OBJNAME   IRFC                                                                            U  O000079
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000073S_DEVELOP T-GT05009405    DEVCLASS  SRFC                                                                            U  O000078
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000074S_DEVELOP T-GT05009405    ACTVT     03                                                                              U  O000077
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000075S_DEVELOP T-GT05009405    OBJNAME   ORFC                                                                            U  O000079
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000076S_DEVELOP T-GT05009406    P_GROUP   *                                                                               U  O000087
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000077S_DEVELOP T-GT05009406    OBJTYPE   FUGR                                                                            U  O000086
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000078S_DEVELOP T-GT05009406    OBJNAME   /SDF/SMON                                                                       U  O000085
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000079S_DEVELOP T-GT05009406    DEVCLASS  /SDF/SMON                                                                       U  O000084
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000080S_DEVELOP T-GT05009406    ACTVT     03                                                                              U  O000083
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000081S_DEVELOP T-GT05009407    P_GROUP   *                                                                               U  O000093
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000082S_DEVELOP T-GT05009407    OBJTYPE   PROG                                                                            U  O000092
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000083S_DEVELOP T-GT05009407    OBJNAME   *                                                                               U  O000091
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000084S_DEVELOP T-GT05009407    DEVCLASS  *                                                                               U  O000090
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000085S_DEVELOP T-GT05009407    ACTVT     03                                                                              U  O000089
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000086S_DEVELOP T-GT05009408    ACTVT     03                                                                              U  O000095
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000087S_DEVELOP T-GT05009407    ACTVT     02                                                                              U  O000089
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000088S_DEVELOP T-GT05009407    ACTVT     01                                                                              U  O000089
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000089S_DEVELOP T-GT05009408    DEVCLASS  BDL3                                                                            U  O000096
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000090S_DEVELOP T-GT05009408    OBJNAME   BDL5                                                                            U  O000097
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000091S_DEVELOP T-GT05009408    OBJTYPE   FUGR                                                                            U  O000098
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000092S_DEVELOP T-GT05009408    P_GROUP   *                                                                               U  O000099
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000093S_DEVELOP T-GT05009409    P_GROUP   *                                                                               U  O000105
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000094S_DEVELOP T-GT05009409    OBJTYPE   FUGR                                                                            U  O000104
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000095S_DEVELOP T-GT05009409    OBJNAME   /SAPDS/RS_BASIS                                                                 U  O000103
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000096S_DEVELOP T-GT05009409    DEVCLASS  /SAPDS/RS_BASIS                                                                 U  O000102
+AGR_1251                                          500Z_AMS_NETWEAVER_MONITORING    000097S_DEVELOP T-GT05009409    ACTVT     03                                                                              U  O000101
 AGR_TEXTS                                         500Z_AMS_NETWEAVER_MONITORING    E00000AMS NETWEAVER MONITORING ACCESS
 AGR_TEXTS                                         500Z_AMS_NETWEAVER_MONITORING    E00001NETWEAVER MONITORING LEAST PRIVILEGED AUTHORIZATIONS  FOR THE AMS SERVICE USER .
 AGR_TEXTS                                         500Z_AMS_NETWEAVER_MONITORING    E00002
@@ -78,11 +147,11 @@ AGR_TEXTS                                         500Z_AMS_NETWEAVER_MONITORING 
 AGR_TEXTS                                         500Z_AMS_NETWEAVER_MONITORING    E00024
 AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    COLL_AGR  HSRIDHARAN  20230201142645HSRIDHARAN  20230201142645
 AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    DEVCLASS  HSRIDHARAN  20230201142645HSRIDHARAN  20230201142645
-AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    FORCE_MIX HSRIDHARAN  20230201142645HSRIDHARAN  20230315111505
-AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    FORCE_YEL HSRIDHARAN  20230201142645HSRIDHARAN  20230316080020
 AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    MASTER_LANHSRIDHARAN  20230201142645HSRIDHARAN  20230201142645E
 AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    RESP_USER HSRIDHARAN  20230201142645HSRIDHARAN  20230201142645
 AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    SYS_FLAG  HSRIDHARAN  20230201142645HSRIDHARAN  20230201142645
-AGR_TIME                                          500Z_AMS_NETWEAVER_MONITORING    PROFILE   HSRIDHARAN  20230201142645000000000000000HSRIDHARAN  20230315111505000000000000000
+AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    FORCE_MIX HSRIDHARAN  20230201142645GRIFFI2D    20240123162656
+AGR_FLAGS                                         500Z_AMS_NETWEAVER_MONITORING    FORCE_YEL HSRIDHARAN  20230201142645GRIFFI2D    20240123162657
 AGR_TIME                                          500Z_AMS_NETWEAVER_MONITORING    SYSTTARTMPHSRIDHARAN  20230201142645000000000000000HSRIDHARAN  20230201142645000000000000000
+AGR_TIME                                          500Z_AMS_NETWEAVER_MONITORING    PROFILE   HSRIDHARAN  20230201142645000000000000000GRIFFI2D    20240123162656000000000000000
 AGR_LSD                                           500Z_AMS_NETWEAVER_MONITORING                                  E
